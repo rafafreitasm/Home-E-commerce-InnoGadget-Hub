@@ -52,6 +52,7 @@ body {
     color: #fff;
 }
 
+
 nav ul {
    display: flex;
    list-style: none;
@@ -91,7 +92,7 @@ nav ul li:hover {
 
 
 header {
-    background-image: radial-gradient(#fff, #c7c7c7);
+    background-image: radial-gradient(#fff, #777676);
 }
 
 .header-bottom-side {
